@@ -15,3 +15,4 @@ Here are the algorithm steps:
 4. Clustering the criticsms into N-number of the most frequent topics (issues, problems, etc.).
 5. Exporting a report and unique KPIs based on the data we extracted.
 
+Note that we use the GPT model through which we send API requests, but it is also possible to use different local LLM models such as Llama, Mistral, etc. - but we have not yet tried this and have not tested their outputs.
