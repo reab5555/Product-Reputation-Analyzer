@@ -25,8 +25,8 @@ Twitter:
 - Volume: represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites).   
 - Engagement: represents the total amount of user engagement (quotes + replies + retweets).
 - Influence: Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers. (Average Followers Count × Tweet Count)
-- Positive Sentiment toward the product.
-- Negative Sentiment toward the product.
+- Positive Sentiment.
+- Negative Sentiment.
 - Anticipation.
 - Curiosity.
 - Surprise.
