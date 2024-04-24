@@ -31,7 +31,7 @@ Twitter:
 - Curiosity
 - Surprise
     
-Reditt:
+Reddit:
 - Engagement: represents the total amount of user engagement (comments + likes + replies)
 - Positive Sentiment
 - Negative Sentiment
