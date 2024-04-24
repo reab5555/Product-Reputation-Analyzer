@@ -8,5 +8,9 @@ First, data is extracted from a social network that contain posts mentioning a k
     
 Besides those KPI indicators, it also extracts from the posts or comments the product criticisms they contain. By using the K-means clustering method, it collects all the criticisms and lists the most frequently mentioned problems or issues about the product.
 
-Here are the algorithm steps:
-1. Extracting data from one of the social networks from APIs (posts, comments, tweets, usernames, dates, views, likes, shares, etc.)
+Here are the algorithm steps:    
+1. Extracting data from one of the social networks from APIs (posts, comments, tweets, usernames, dates, views, likes, shares, etc.).
+2. Utilizing AI/LLM for extracting criticisms about the product from posts or comments.
+3. Utilizing AI/LLM for extracting sentiments and emotions of user's posts or comments mentioning their experience with the product.
+4. Clustering the criticsms into N-number of the most frequent topics (issues, problems, etc.).
+5. Exporting a report and unique KPIs based on the data we extracted.
