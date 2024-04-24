@@ -1,5 +1,5 @@
 # Product Reputation Profiler (PRP)
-The purpose of this tool is to perform an in-depth analysis of the activities on social networks related to a certain product.
+The purpose of this tool is to perform an in-depth analysis of the reputation profile on social networks related to a certain product.
 
 ## Description
 The tool analyzes and extracts a number of key indicators (KPIs) that measure the activity in social networks related to a product.    
