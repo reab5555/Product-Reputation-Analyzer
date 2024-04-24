@@ -17,7 +17,7 @@ Here are the algorithm steps:
 4. Clustering the criticsms into N-number of the most frequent topics (issues, problems, etc.).
 5. Exporting a report and unique KPIs based on the data we extracted.
 
-### KPIs
+### Available KPIs list:
 Twitter:   
 - Volume:   
   represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites)
