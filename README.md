@@ -44,6 +44,4 @@ Note that we use the GPT model through which we send API requests, but it is als
    
 To run, use Main.py - please enter the API key if needed, and the number of the desired clusters.    
 
-## Examples
-
 
