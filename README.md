@@ -40,6 +40,6 @@ Reddit:
 - Curiosity
 - Surprise
 
-* Note that we use the GPT model through which we send API requests, but it is also possible to use different local LLM models such as Llama, Mistral, etc. - but we have not yet tried this and have not tested their outputs.   
-* To run, use Main.py - please enter the API key if needed, and the number of the desired clusters.   
+Note that we use the GPT model through which we send API requests, but it is also possible to use different local LLM models such as Llama, Mistral, etc. - but we have not yet tried this and have not tested their outputs.   
+To run, use Main.py - please enter the API key if needed, and the number of the desired clusters.   
 
