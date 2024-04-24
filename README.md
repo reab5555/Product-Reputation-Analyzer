@@ -27,7 +27,7 @@ Twitter:
 - Engagement:   
   represents the total amount of user engagement (quotes + replies + retweets)
 - Influence:   
-  Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)
+  Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)   
 - Positive Sentiment
 - Negative Sentiment
 - Anticipation
@@ -35,7 +35,8 @@ Twitter:
 - Surprise
     
 Reddit:
-- Engagement: represents the total amount of user engagement (comments + likes + replies)
+- Engagement:   
+  represents the total amount of user engagement (comments + likes + replies)   
 - Positive Sentiment
 - Negative Sentiment
 - Anticipation
