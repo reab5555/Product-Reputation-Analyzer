@@ -115,7 +115,7 @@ Overall, the sentiment dynamics for both products show that anticipation and cur
 <img src="examples/Tesla Model 3 - Corr.png" width="350" alt="alt text">
 <img src="examples/Tesla Model 3 - reg 1.png" width="350" alt="alt text">
 
-The data presented appears to be from a series of statistical analyses, including correlation and regression models, focusing on Twitter data for the Tesla Model 3 and its relationship with TSLA stock values.   
+The data presented including correlation and multiple regression models, focusing on Twitter data for the Tesla Model 3 and its relationship with TSLA stock values.   
    
 The two scatterplots compare the TSLA stock closing value with Twitter sentiments about the Tesla Model 3 for the year 2023.   
     
