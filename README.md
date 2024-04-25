@@ -25,15 +25,15 @@ Here are the algorithm steps:
   represents the total amount of user engagement (quotes + replies + retweets)
 - Influence:   
   Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)   
-- Positive Sentiment
+- Positive Sentiment:   
   How much the tweets are reflecting a positive attitude toward the product (a probability number 0-1)
-- Negative Sentiment:
+- Negative Sentiment:   
   How much the tweets are reflecting a negative attitude toward the product (a probability number 0-1)
-- Anticipation
+- Anticipation:   
   How much the tweets represent anticipation toward the product or other features related to this product
-- Curiosity:
+- Curiosity:   
   How much the tweets represent curiosity
-- Surprise:
+- Surprise:   
   How much the tweets represent reactions of surprise
 
 
