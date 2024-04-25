@@ -139,7 +139,7 @@ The model summary shows an R-squared value of 0.406, suggesting that approximate
 Overall, these analyses suggest that there is a moderate positive relationship between TSLA stock values and the sentiment or emotion on Twitter regarding the Tesla Model 3. Anticipation seems to be a strong predictor of revenue, and the positive sentiment has a meaningful but less strong relationship with revenue. Negative sentiment has an inverse relationship, as expected.   
    
 
-### Coin Master: an example of using Reddit
+### Coin Master: an example from Reddit
 Apart from Twitter (X), we also analyzed posts and comments from Reddit related to Coin Master mobile game. We have collected posts and comments that mention the name of the game from January until April 2024. In addition to this, we linked or joined the revenue values of the game with the social network data by the corresponding months.    
    
 This dashboard presents a multi-faceted analysis of the Coin Master mobile game based on data aggregated from Reddit over the period January to April 2024. It covers metrics or unique KPIs such as revenue, engagement, sentiments and emotions.   
