@@ -137,4 +137,22 @@ Model Summary:
 The model summary shows an R-squared value of 0.406, suggesting that approximately 40.6% of the variance in the revenue mean can be explained by the independent variables in the model. The adjusted R-squared is 0.298, which accounts for the number of predictors in the model. RMSE (Root Mean Square Error) provides an estimate of the standard deviation of the residuals, in this case, it is 3.754.   
    
 Overall, these analyses suggest that there is a moderate positive relationship between TSLA stock values and the sentiment or emotion on Twitter regarding the Tesla Model 3. Anticipation seems to be a strong predictor of revenue, and the positive sentiment has a meaningful but less strong relationship with revenue. Negative sentiment has an inverse relationship, as expected.   
+   
+
+### Coin Master: an example of using Reddit
+Apart from Twitter (X), we also analyzed posts and comments from Reddit related to Coin Master mobile game. We have collected posts and comments that mention the name of the game from January until April 2024. In addition to this, we linked or joined the revenue values of the game with the social network data by the corresponding months.    
+   
+This dashboard presents a multi-faceted analysis of the Coin Master mobile game based on data aggregated from Reddit over the period January to April 2024. It covers metrics or unique KPIs such as revenue, engagement, sentiments and emotions.   
+   
+The top portion of the dashboard provides an overview of the mean revenue, which shows a rising trend from January (68.2 million USD) to April (71.2 million USD), apart from a dip in February to 60 million USD.   
+   
+Engagement, defined as the sum of comments, likes, and replies, experienced a significant drop from January (980) to February (106), followed by a recovery in March (706).   
+   
+The middle section charts emotions: Anticipation's mean value begins at 10 in January, peaking at 20 in April. Curiosity begin with a mean value of 4 in January, declining to 3 in February, and increasing to 20 by April.   
+   
+Sentiment analysis depicted at the top right corner indicates that positive sentiment mean values slightly increased from 0.38 in January to 0.50 in April, while negative sentiment remained relatively stable, starting at 0.23 in January and slightly decreasing to 0.13 in April.   
+
+Overall, this analysis suggests that while Coin Master's revenue has generally increased over the observed period, it experienced fluctuations in engagement, anticipation, and curiosity, with an overall increase in positive sentiment on Reddit. 
+
+
 
