@@ -69,7 +69,7 @@ Tesla Model 3:
 2. Engagement (pink line): Beginning at 6,134, this metric shows variability, with a notable spike to 34,544 in month 9 (September), which correlates with the peak in Volume, followed by a decline to 1,316 by the end of the year.   
 3. Influence (yellow line): The Influence starts at 411,549,219 and, like the other metrics, shows fluctuations, with the most significant peak of 1,652,272,286 in month 9 (September). By month 12, it decreases to 114,961,748.   
     
-For the Tesla Model 3, the data indicates more volatility in the Twitter KPI metrics throughout the year, with a significant peak in all metrics in month 9 (September), which could be associated with a major event or release, followed by a decline.   
+Overall, the data indicates more volatility in the Twitter KPI metrics throughout the year, with a significant peak in all metrics in month 9 (September), which could be associated with a major event or release, followed by a decline.   
      
 iPhone 15 Pro Max:    
 1. Volume (blue line): Starts at a very high value of 125,443,385 in month 9 (September), indicating a substantial number of tweets. It shows a consistent downward trend over the months, ending at 10,831,111 by month 12 (December).   
