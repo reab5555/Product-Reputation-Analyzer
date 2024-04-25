@@ -22,7 +22,7 @@ Here are the algorithm steps:
 ## Algorithm steps
 Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the Criticisms into main topics and Analyzing KPIs
 
-<img src="examples/Product Analysis.png" width="400" alt="alt text">
+<img src="examples/Product Analysis.png" width="500" alt="alt text">
 
 ### Available KPI list (Twitter/X):
 - Volume:   
