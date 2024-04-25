@@ -19,17 +19,17 @@ Here are the algorithm steps:
 5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPIs metrics.
 
 ### Available KPI list (Twitter/X):
-- Volume:   
+-1 Volume:   
   represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites)
-- Engagement:   
+-2 Engagement:   
   represents the total amount of user engagement (quotes + replies + retweets)
-- Influence:   
+-3 Influence:   
   Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)   
-- Positive Sentiment
-- Negative Sentiment
-- Anticipation
-- Curiosity
-- Surprise
+-4 Positive Sentiment
+-5 Negative Sentiment
+-6 Anticipation
+-7 Curiosity
+-8 Surprise
 
 
 Note that we use the GPT model through which we send API requests, but it is also possible to use different local LLM models such as Llama, Mistral, etc. - but we have not yet tried this and have not tested their outputs.   
