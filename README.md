@@ -39,6 +39,6 @@ Here are the algorithm steps:
 
 Note that we use the Gemini Pro 1.5 model by Google through which we send API requests. however, it is also possible to use different local LLM models such as Llama, Mistral, etc. but we have not yet tried this and have not tested their outputs. also keep in mind that it must use a model with a capability of receiving a maximum tokens number of at least 100,000 in order to receive all the texts at once for summarizing them.  
    
-To run, use Main.py - please enter the API key if needed, and the number of the desired clusters.    
+To run, use Main.py - please enter the name of your google cloud project if needed and the number of the desired topics or criticisms to be listed.    
 
 
