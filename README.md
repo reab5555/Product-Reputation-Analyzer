@@ -20,7 +20,7 @@ Here are the algorithm steps:
 2. Utilizing AI/LLM with Prompt Engineering for extracting criticisms about the product from posts or comments.
 3. Utilizing AI/LLM with Prompt Engineering for extracting sentiments and emotions of user's posts or comments mentioning their experience with the product.
 4. Clustering the criticsms into N-number of the most frequent topics (issues, problems, etc.).
-5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPIs metrics.
+5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPI metrics.
 
 ## Algorithm steps
 Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the criticisms into main topics and analyzing KPIs
