@@ -115,7 +115,7 @@ The data presented including correlations and multiple regression models, focusi
 <img src="examples/Tesla Model 3 - Corr.png" width="350" alt="alt text">
 <img src="examples/Tesla Model 3 - reg 1.png" width="350" alt="alt text">     
 <img src="examples/Tesla Model 3 - 5.png" width="600" alt="alt text">
-Anticipation vs TSLA Stock: This plot shows a slightly stronger correlation (r = 0.473) compared to positive sentiment, again indicating that higher stock prices may be associated with greater anticipation regarding the Tesla Model 3 on Twitter.   
+Anticipation vs TSLA Stock: This plot shows a slightly stronger correlation (r = 0.473) compared to positive sentiment, again indicating that higher stock prices (revenue_mean) may be associated with greater anticipation regarding the Tesla Model 3 on Twitter.   
    
 Pearson's Correlations Table:   
 The Pearson's correlations table displays the correlation coefficients between various sentiment measures and the mean revenue. Notable coefficients include:   
