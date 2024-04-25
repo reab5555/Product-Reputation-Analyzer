@@ -2,7 +2,7 @@
 <img src="examples/icon.png" width="100" alt="alt text">
 
 # Product Reputation Profiler (PRP)
-The purpose of this tool is to perform an in-depth analysis of the reputation profile on social networks which includes opinions, sentiments and atitudes towards a certain product, using Large Language Model and Prompt Engineering.
+The purpose of this tool is to perform an in-depth analysis of the reputation profile on social networks which includes opinions, sentiments and atitudes towards a certain product, using Large Language Model and Prompt Engineering. relevant to business and data analysts, particularly those focused on product management, marketing strategy, and customer relations. The use of KPIs derived from social media analytics is increasingly crucial in understanding and predicting consumer behavior and market trends.
 
 ## Description
 Social networks contain valuable information about user experiences of using a particular product - such as problems, malfunctions, sentiments, general issues and any other type of criticism. This information is important for businesses that want to understand what internet users or customers on social networks thinks about their current product on the market, so that they can improve it.
