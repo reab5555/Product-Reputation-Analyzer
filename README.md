@@ -19,20 +19,25 @@ Here are the algorithm steps:
 5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPIs metrics.
 
 ### Available KPI list (Twitter/X):
--1 Volume:   
+- Volume:   
   represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites)
--2 Engagement:   
+- Engagement:   
   represents the total amount of user engagement (quotes + replies + retweets)
--3 Influence:   
+- Influence:   
   Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)   
--4 Positive Sentiment
--5 Negative Sentiment
--6 Anticipation
--7 Curiosity
--8 Surprise
+- Positive Sentiment
+  How much the tweets are reflecting a positive attitude toward the product (a probability number 0-1)
+- Negative Sentiment:
+  How much the tweets are reflecting a negative attitude toward the product (a probability number 0-1)
+- Anticipation
+  How much the tweets represent anticipation toward the product or other features related to this product
+- Curiosity:
+  How much the tweets represent curiosity
+- Surprise:
+  How much the tweets represent reactions of surprise
 
 
-Note that we use the GPT model through which we send API requests, but it is also possible to use different local LLM models such as Llama, Mistral, etc. - but we have not yet tried this and have not tested their outputs.   
+Note that we use the Gemini Pro 1.5 model by Google through which we send API requests. however, it is also possible to use different local LLM models such as Llama, Mistral, etc. but we have not yet tried this and have not tested their outputs. also keep in mind that it must use a model with a capability of receiving a maximum tokens number of at least 100,000 in order to receive all the texts at once for summarizing them.  
    
 To run, use Main.py - please enter the API key if needed, and the number of the desired clusters.    
 
