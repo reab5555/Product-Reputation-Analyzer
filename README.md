@@ -1,3 +1,6 @@
+
+<img src="examples/icon.png" width="100" alt="alt text">
+
 # Product Reputation Profiler (PRP)
 The purpose of this tool is to perform an in-depth analysis of the reputation profile on social networks which includes opinions, sentiments and atitudes towards a certain product, using Large Language Model and Prompt Engineering.
 
@@ -108,9 +111,9 @@ Overall, the sentiment dynamics for both products show that anticipation and cur
 
 ### Impact on the Product's Stock value
 <img src="examples/Tesla Model 3 - 4.png" width="500" alt="alt text">
-<img src="examples/Tesla Model 3 - 5" width="500" alt="alt text">
-<img src="examples/Tesla Model 3 - Corr" width="500" alt="alt text">
-<img src="examples/Tesla Model 3 - reg 1" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 5.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - Corr.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - reg 1.png" width="500" alt="alt text">
 
 The data presented appears to be from a series of statistical analyses, including correlation and regression models, focusing on Twitter data for the Tesla Model 3 and its relationship with TSLA stock values.   
    
