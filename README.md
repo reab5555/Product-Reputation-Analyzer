@@ -30,30 +30,30 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Senti
 ### Available KPI list (Twitter/X):
 #### Activity:
 - Volume:   
-  represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites)   
-  more mentions can lead to increased brand visibility and consequently, more sales opportunities      
+  represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites).   
+  more mentions can lead to increased brand visibility and consequently, more sales opportunities.      
 - Engagement:   
-  represents the total amount of user engagement (quotes + replies + retweets)
-  higher engagement can foster product spreading and popularity, so more engagment mean more product noticeability     
+  represents the total amount of user engagement (quotes + replies + retweets).
+  higher engagement can foster product spreading and popularity, so more engagment mean more product noticeability.     
 - Influence:   
-  Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count)
+  Represents the level of influence through the amount of the tweets that mention the product together with the number of the users number of followers (Average Followers Count × Tweet Count).
    being influential can help the product becoming a preferred brand, which can boost profit margins. 
 #### Sentiments:
 - Positive Sentiment:   
-  How much the tweets are reflecting a positive attitude toward the product (a probability number 0-1)
-  positive sentiment can be amplified to attract new customers and retain existing ones, improving sales. this also can suggest the current magnitude of positivity of the product   
+  How much the tweets are reflecting a positive attitude toward the product (a probability number 0-1).
+  positive sentiment can be amplified to attract new customers and retain existing ones, improving sales. this also can suggest the current magnitude of positivity of the product.   
 - Negative Sentiment:   
-  How much the tweets are reflecting a negative attitude toward the product (a probability number 0-1)
+  How much the tweets are reflecting a negative attitude toward the product (a probability number 0-1).
   Addressing negative feedback promptly can prevent loss of customers and damage to brand reputation.    
 #### Emotions:
 - Anticipation:   
-  How much the tweets represent anticipation toward the product or other features related to this product (a scrore number from 0 to 100)   
-  Capitalizing on customer anticipation can drive pre-orders and create buzz, potentially leading to higher initial sales   
+  How much the tweets represent anticipation toward the product or other features related to this product (a scrore number from 0 to 100).   
+  Capitalizing on customer anticipation can drive pre-orders and create buzz, potentially leading to higher initial sales.   
 - Curiosity:   
-  How much the tweets represent curiosity (a scrore number from 0 to 100)   
-  Engaging curious customers can lead to increased information dissemination and higher conversion rates   
+  How much the tweets represent curiosity (a scrore number from 0 to 100).   
+  Engaging curious customers can lead to increased information dissemination and higher conversion rates.   
 - Surprise:   
-  How much the tweets represent reactions of surprise (a scrore number from 0 to 100)   
+  How much the tweets represent reactions of surprise (a scrore number from 0 to 100).   
   Positive surprises can enhance customer experience, leading to free word-of-mouth marketing and potentially more sales.   
 
 <img src="examples/Product Analysis 2.png" width="500" alt="alt text">
