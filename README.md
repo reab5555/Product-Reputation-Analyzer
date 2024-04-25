@@ -61,8 +61,8 @@ To run, use Main.py - please enter the name of your google cloud project if need
 We would like to demonstrate here some of the results we received from the algorithm. we extracted two datasets containing tweets that mention iPhone 15 Pro Max and the Tesla Model 3. Both are very popular products in the market. We extracted data from different time ranges. The data for the Tesla Model 3 is tweets from 2023, with each month containing the same amount of tweets or samples. For the iPhone 15 Pro Max, we extracted tweets from the period between September 2023 (the product's release date) and December 2023. In total, the two datasets contain about 4000 tweets each.   
 
 ### Activity
-<img src="examples/Tesla Model 3 - 3.png" width="500" alt="alt text">
-<img src="examples/iPhone 15 Pro Max - 1.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 3.png" width="600" alt="alt text">
+<img src="examples/iPhone 15 Pro Max - 1.png" width="600" alt="alt text">
    
 Tesla Model 3:   
 1. Volume (blue line): The Volume here starts at a lower point of 6,436,448 in month 1, with fluctuations throughout the year, peaking dramatically at 35,495,188 in month 9 (September) before falling to 943,749 by month 12.   
@@ -79,8 +79,8 @@ iPhone 15 Pro Max:
 The overall trend for the iPhone 15 Pro Max shows a decline across all tracked metrics over these months, suggesting a peak in interest or marketing efforts around month 9 (September) at its initial release month, with a gradual decline thereafter.   
    
 ### Sentiments
-<img src="examples/Tesla Model 3 - 2.png" width="500" alt="alt text">
-<img src="examples/iPhone 15 Pro Max - 2.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 2.png" width="600" alt="alt text">
+<img src="examples/iPhone 15 Pro Max - 2.png" width="600" alt="alt text">
    
 Tesla Model 3:   
 1. Average Negative Sentiment (red line): The average negative sentiment starts at 0.1468, lowers to 0.1298 around month 5, drops significantly to 0.0743 in month 9 (September), and finishes the year at 0.0574. The trend here shows a decrease in negative sentiment over the year, with a sharp drop in month 9 (September).   
@@ -94,8 +94,8 @@ iPhone 15 Pro Max:
 In summary, the iPhone 15 Pro Max's Twitter sentiment analysis shows an increase in negative sentiment and a slight increase in positive sentiment towards the end of the year. For the Tesla Model 3, there is a marked increase in positive sentiment and a decrease in negative sentiment throughout the year, with a notable change around month 9 (September).   
 
 ### Emotions
-<img src="examples/Tesla Model 3 - 3.png" width="500" alt="alt text">
-<img src="examples/iPhone 15 Pro Max - 3.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 3.png" width="600" alt="alt text">
+<img src="examples/iPhone 15 Pro Max - 3.png" width="600" alt="alt text">
    
 Tesla Model 3:   
 1. Anticipation (purple line): Starting at 44.38, this measure shows some fluctuation but is generally trending upward, reaching a peak of 67.70 by the end of the year, indicating increasing anticipation for the Tesla Model 3.   
@@ -110,8 +110,8 @@ iPhone 15 Pro Max:
 Overall, the sentiment dynamics for both products show that anticipation and curiosity tend to increase towards the end of the year, which could correlate with product release cycles, marketing campaigns, or seasonal events. The Influence metric for the iPhone and the Surprise metric for the Tesla indicate there were periods of heightened reaction, possibly due to specific events or announcements.   
 
 ### Impact on the Product's Stock value
-<img src="examples/Tesla Model 3 - 4.png" width="500" alt="alt text">
-<img src="examples/Tesla Model 3 - 5.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 4.png" width="600" alt="alt text">
+<img src="examples/Tesla Model 3 - 5.png" width="600" alt="alt text">
 <img src="examples/Tesla Model 3 - Corr.png" width="350" alt="alt text">
 <img src="examples/Tesla Model 3 - reg 1.png" width="350" alt="alt text">
 
