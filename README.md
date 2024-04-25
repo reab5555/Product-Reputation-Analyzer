@@ -27,7 +27,7 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Senti
 
 <img src="examples/Product Analysis.png" width="500" alt="alt text">
 
-### Available KPI list (Twitter/X):
+## Available KPI list (Twitter/X):
 #### Activity:
 - Volume:   
   represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites).   
