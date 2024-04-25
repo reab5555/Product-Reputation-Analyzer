@@ -45,5 +45,5 @@ Note that we use the Gemini Pro 1.5 model by Google through which we send API re
 To run, use Main.py - please enter the name of your google cloud project if needed and the number of the desired topics or criticisms to be listed.    
 
 ## Algorithm steps
-Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the Criticisms into main topics / Analyzing KPIs
+Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the Criticisms into main topics and Analyzing KPIs
 
