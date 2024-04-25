@@ -142,7 +142,7 @@ Overall, these analyses suggest that there is a moderate positive relationship b
 ### Coin Master: an example from Reddit
 Apart from Twitter (X), we also analyzed posts and comments from Reddit related to Coin Master mobile game. We have collected posts and comments that mention the name of the game from January until April 2024. In addition to this, we linked or joined the revenue values of the game with the social network data by the corresponding months.    
    
-<img src="examples/Coin_Master_January_-_April_2024.jpg.png" width="600" alt="alt text">
+<img src="examples/Coin_Master_January_-_April_2024.jpg" width="600" alt="alt text">
 
 This dashboard presents a multi-faceted analysis of the Coin Master mobile game based on data aggregated from Reddit over the period January to April 2024. It covers metrics or unique KPIs such as revenue, engagement, sentiments and emotions.   
    
