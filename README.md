@@ -37,6 +37,7 @@ Here are the algorithm steps:
 - Surprise:   
   How much the tweets represent reactions of surprise (a scrore number from 0 to 100)
 
+### Notes
 In order to get a sentiment probability or score for each text we need a large language model that will also understand the context and the sentiment that is directed solely towards the product keyword, as this avoid any general impression the text express that is not related to the product itself. Only Large Language Models able to link the product name appearing in the text to the specific sentiment towards it.   
    
 Note that we use the Gemini Pro 1.5 model by Google through which we send API requests. however, it is also possible to use different local LLM models such as Llama, Mistral, etc. but we have not yet tried this and have not tested their outputs. also keep in mind that it must use a model with a capability of receiving a maximum tokens number of at least 100,000 in order to receive all the texts at once for summarizing them.  
