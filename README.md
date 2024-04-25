@@ -6,7 +6,7 @@ Social networks contain valuable information about user experiences of using a p
 
 The first step is to extract data from a social network that contain posts or comments mentioning a keyword of a certain product - this can be done through requests from official API services the social networks provide (Twitter, Facebook or Reddit for example). this data is then "fed" into the algorithm as input. it includes the content of the posts or comments, dates, usernames, number of views, number of shares, etc.
 
-Our tool is using a Large Language Model that extracts unique KPI indicators from the data in order to provide relevant and important insights for a product name. Besides those KPI indicators, it also extracts main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms and lists the most frequently mentioned problems or issues the users or customers mention.   
+Our tool is using a Large Language Model (Gemini Pro) that extracts unique KPI indicators from the data in order to provide relevant and important insights for a product name. Besides those KPI indicators, it also extracts main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms and lists the most frequently mentioned problems or issues the users or customers mention.   
    
 We also did the following: we attached or joined the company's stock data to the existing data by month, so that the stock value is associated to all the texts written that month which mention the product. This way we can also find out if certain KPIs are related to the stock value of the company that owns that product (by calculating correlations).
    
@@ -22,7 +22,7 @@ Here are the algorithm steps:
 ## Algorithm steps
 Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the Criticisms into main topics and Analyzing KPIs
 
-<img src="examples/Product Analysis.png" width="200" alt="alt text">
+<img src="examples/Product Analysis.png" width="400" alt="alt text">
 
 ### Available KPI list (Twitter/X):
 - Volume:   
