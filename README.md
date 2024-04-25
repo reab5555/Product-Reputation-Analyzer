@@ -107,8 +107,8 @@ iPhone 15 Pro Max:
 Overall, the sentiment dynamics for both products show that anticipation and curiosity tend to increase towards the end of the year, which could correlate with product release cycles, marketing campaigns, or seasonal events. The Influence metric for the iPhone and the Surprise metric for the Tesla indicate there were periods of heightened reaction, possibly due to specific events or announcements.   
 
 ### Impact on the Product's Stock value
-<img src="examples/Tesla Model 3 - 3.png" width="500" alt="alt text">
-<img src="examples/iPhone 15 Pro Max - 3.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 4.png" width="500" alt="alt text">
+<img src="examples/Tesla Model 3 - 5" width="500" alt="alt text">
 <img src="examples/Tesla Model 3 - Corr" width="500" alt="alt text">
 <img src="examples/Tesla Model 3 - reg 1" width="500" alt="alt text">
 
