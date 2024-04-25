@@ -42,6 +42,7 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Senti
 - Surprise:   
   How much the tweets represent reactions of surprise (a scrore number from 0 to 100)
 
+<img src="examples/Product Analysis 2.png" width="500" alt="alt text">
 
 ### Notes
 In order to get a sentiment probability or score for each text we need a large language model that will also understand the context and the sentiment that is directed solely towards the product keyword, as this avoid any general impression the text express that is not related to the product itself. Only Large Language Models able to link the product name appearing in the text to the specific sentiment towards it.   
