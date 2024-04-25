@@ -8,7 +8,7 @@ The first step is to extract data from a social network that contain posts or co
 
 Our tool is using a Large Language Model that extracts unique KPI indicators from the data in order to provide relevant and important insights for a product name. Besides those KPI indicators, it also extracts main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms and lists the most frequently mentioned problems or issues the users or customers mention.   
    
-We also did the following: we attached or connected the company's stock data to the existing data by month, so that the stock value is attached to all the texts written that month about the product. This way we can also find out if certain opinions about the product are related to the stock value of the company that owns that product.
+We also did the following: we attached or joined the company's stock data to the existing data by month, so that the stock value is associated to all the texts written that month which mention the product. This way we can also find out if certain KPIs are related to the stock value of the company that owns that product (by calculating correlations).
    
 At this point, the algorithm only supports the social network Twitter (X).
 
