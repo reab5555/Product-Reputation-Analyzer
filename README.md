@@ -10,9 +10,7 @@ Social networks contain valuable information about user experiences of using a p
 The first step is to extract data from a social network that contain posts or comments mentioning a keyword of a certain product - this can be done through requests from official API services the social networks provide (Twitter, Facebook or Reddit for example). this data is then "fed" into the algorithm as input. it includes the content of the posts or comments, dates, usernames, number of views, number of shares, etc.
 
 Our tool is using a Large Language Model (Gemini Pro) that extracts unique KPI measurements from the data in order to provide relevant and important insights for a given product. it also extracts the main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms, assemble them, making generalizations, and lists the most frequently mentioned problems or issues the users or customers relation to the product.   
-   
-We also did the following: we linked or joined the company's stock data to the existing fetched social network data by month, so that the stock value is associated to all the posts or comments written that month which mention the product. This way we can also find out if certain KPIs are related to the stock value of the company that owns that product.
-   
+
 At this point, the algorithm only supports the social network Twitter (X).
 
 Here are the algorithm steps:    
@@ -116,35 +114,6 @@ iPhone 15 Pro Max:
 3. Influence (orange line): Beginning with a very high value of 4,577,758,611, there is a steady decline to 404,985,950 by month 12 (December), similar to the previous influence graph for the iPhone 15 Pro Max.   
    
 Overall, the sentiment dynamics for both products show that anticipation and curiosity tend to increase towards the end of the year, which could correlate with product release cycles, marketing campaigns, or seasonal events. The Influence metric for the iPhone and the Surprise metric for the Tesla indicate there were periods of heightened reaction, possibly due to specific events or announcements.   
-
-### Impact on the Product's Stock value
-The data presented including correlations and multiple regression models, focusing on Twitter data for the Tesla Model 3 and its relationship with TSLA stock values.    
-    
-<img src="examples/Tesla Model 3 - Corr.png" width="350" alt="alt text">
-<img src="examples/Tesla Model 3 - reg 1.png" width="350" alt="alt text">     
-<img src="examples/Tesla Model 3 - 5.png" width="600" alt="alt text">
-Anticipation vs TSLA Stock: This plot shows a slightly stronger correlation (r = 0.473) compared to positive sentiment, again indicating that higher stock prices (revenue_mean) may be associated with greater anticipation regarding the Tesla Model 3 on Twitter.   
-   
-Pearson's Correlations Table:   
-The Pearson's correlations table displays the correlation coefficients between various sentiment measures and the mean revenue. Notable coefficients include:   
-- Engagement_sum (r = 0.358)   
-- Influence_sum (r = 0.402)   
-- Positive_mean (r = 0.442)   
-- Negative_mean (r = -0.392)   
-- Anticipation_mean (r = 0.474)   
-   
-The positive values suggest a direct relationship with revenue mean, where higher sentiments or emotions correlate with higher revenue, except for Negative_mean (negative sentiment) which has an inverse relationship.   
-   
-Regression Coefficients Table:   
-This table provides a summary of the linear regression model coefficients, with t-statistics and p-values. It appears to be analyzing the impact of various Twitter sentiment measures on revenue.   
-   
-- Volume_sum (Volume) has a negative coefficient, but the p-value (0.067) indicates this is not statistically significant at the 0.05 level.   
-- Anticipation_mean (Anticipation) has a positive and statistically significant impact on revenue (p = 0.015).   
-   
-Model Summary:
-The model summary shows an R-squared value of 0.406, suggesting that approximately 40.6% of the variance in the revenue mean can be explained by the independent variables in the model. The adjusted R-squared is 0.298, which accounts for the number of predictors in the model. RMSE (Root Mean Square Error) provides an estimate of the standard deviation of the residuals, in this case, it is 3.754.   
-   
-Overall, these analyses suggest that there is a moderate positive relationship between TSLA stock values and the sentiment or emotion on Twitter regarding the Tesla Model 3. Anticipation seems to be a strong predictor of revenue, and the positive sentiment has a meaningful but less strong relationship with revenue. Negative sentiment has an inverse relationship, as expected.   
    
 
 ### Coin Master: an example from Reddit
