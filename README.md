@@ -9,7 +9,9 @@ Social networks contain valuable information about user experiences of using a p
 
 The first step is to extract data from a social network that contain posts or comments mentioning a keyword of a certain product - this can be done through requests from official API services the social networks provide (Twitter, Facebook or Reddit for example). this data is then "fed" into the algorithm as input. it includes the content of the posts or comments, dates, usernames, number of views, number of shares, etc.
 
-Our tool is using a Large Language Model (Gemini Pro) that extracts unique KPI measurements from the data in order to provide relevant and important insights for a given product. it also extracts the main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms, assemble them, making generalizations, and lists the most frequently mentioned problems or issues the users or customers relation to the product.   
+Our algorithm is using a Large Language Model (Gemini Pro) that extracts unique KPI measurements from the data in order to provide relevant and important insights for a given product. it also extracts the main criticisms toward the product. by utilizing the Large Language Model, it collects all the criticisms, assemble them, making generalizations, and lists the most frequently mentioned problems or issues the users or customers relation to the product.   
+
+Sentiments and Emotions are extracted using two finetuned variations of BERT language model, which were evaluated with high accuracy of over 95% on the GoEmotions and SST-2 datasets.
 
 At this point, the algorithm only supports the social network Twitter (X).
 
@@ -21,7 +23,7 @@ Here are the algorithm steps:
 5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPI metrics.
 
 ## Algorithm steps
-Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Sentiments -> Summarizing the criticisms into main topics and analyzing KPIs
+Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emotions -> Summarizing the criticisms into main topics and analyzing KPIs
 
 <img src="examples/Product Analysis.png" width="500" alt="alt text">
 
