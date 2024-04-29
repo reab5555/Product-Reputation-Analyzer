@@ -27,7 +27,7 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
     
 <img src="example_images/Product Analysis.png" width="500" alt="alt text">
     
-## Available KPI list (Twitter/X):
+## Available KPI list (Twitter/X)
 #### Activity:
 - Volume:   
   represents the total amount of activity on the social network (views + quotes + replies + retweets + bookmarks + favorites).   
@@ -48,9 +48,9 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
 #### Emotions:
 - Emotions expressed in tweets about a product can provide valuable insights into customer sentiment, helping businesses understand public perception and satisfaction. These insights can guide marketing strategies, product development, and customer service initiatives to better align with consumer needs and preferences.   
 - The GoEmotions dataset categorizes texts into 27 distinct emotion categories. These include emotions such as admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, and surprise. 
-
+    
 <img src="example_images/Product Analysis 2.png" width="500" alt="alt text">
-
+    
 ### Notes
 In order to get a sentiment probability or an emotion score for each text we need a large language model that will also understand the context and the sentiment that is directed solely towards the product keyword, as this avoid any general impression the text express that is not related to the product itself. Only Large Language Models able to attribute a sentiment to a specific keyword in the text by the right prompt.   
    
