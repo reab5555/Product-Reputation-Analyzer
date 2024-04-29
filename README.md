@@ -50,12 +50,4 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
 - The GoEmotions dataset categorizes texts into 27 distinct emotion categories. These include emotions such as admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, and surprise. 
     
 <img src="example_images/Product Analysis 2.png" width="500" alt="alt text">
-    
-### Notes
-In order to get a sentiment probability or an emotion score for each text we need a large language model that will also understand the context and the sentiment that is directed solely towards the product keyword, as this avoid any general impression the text express that is not related to the product itself. Only Large Language Models able to attribute a sentiment to a specific keyword in the text by the right prompt.   
-   
-Note that we use the Gemini Pro 1.5 model by Google through which we send API requests. however, it is also possible to use different local LLM models such as Llama, Mistral, etc. but we have not yet tried this and have not tested their outputs. also keep in mind that it must use a model with a capability of receiving a maximum tokens number of at least 100,000 in order to receive all the texts at once for summarizing them.  
-   
-To run, use Main.py - please enter the name of your google cloud project if needed and the number of the desired topics or criticisms to be listed.    
-
 
