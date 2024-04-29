@@ -46,15 +46,8 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
   How much the tweets are reflecting a negative attitude toward the product (a probability number 0-1).
   Addressing negative feedback promptly can prevent loss of customers and damage to brand reputation.    
 #### Emotions:
-- Anticipation:   
-  How much the tweets represent anticipation toward the product or other features related to this product (a scrore number from 0 to 100).   
-  Capitalizing on customer anticipation can drive pre-orders and create buzz, potentially leading to higher initial sales.   
-- Curiosity:   
-  How much the tweets represent curiosity (a scrore number from 0 to 100).   
-  Engaging curious customers can lead to increased information dissemination and higher conversion rates.   
-- Surprise:   
-  How much the tweets represent reactions of surprise (a scrore number from 0 to 100).   
-  Positive surprises can enhance customer experience, leading to free word-of-mouth marketing and potentially more sales.   
+- Emotions expressed in tweets about a product can provide valuable insights into customer sentiment, helping businesses understand public perception and satisfaction. These insights can guide marketing strategies, product development, and customer service initiatives to better align with consumer needs and preferences.   
+- The GoEmotions dataset categorizes texts into 27 distinct emotion categories. These include emotions such as admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, and surprise. 
 
 <img src="example_images/Product Analysis 2.png" width="500" alt="alt text">
 
