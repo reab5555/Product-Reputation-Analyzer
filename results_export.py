@@ -4,10 +4,10 @@ import os  # Import os module to handle file directory operations
 
 
 # Save criticism report as a TXT file
-def export_results(df_cleaned, criticisms, save_path):
+def export_results(df_cleaned, classified_csv_path, criticisms_topics):
     keyword = df_cleaned.loc[0, 'keyword']  # Assuming 'keyword' is in the first row
     folder_name = f"{keyword}_stats"
-    directory_path = os.path.join(os.path.dirname(save_path), folder_name)
+    directory_path = os.path.join(os.path.dirname(classified_csv_path), folder_name)
 
     # Create the directory if it does not exist
     if not os.path.exists(directory_path):
@@ -18,6 +18,6 @@ def export_results(df_cleaned, criticisms, save_path):
 
     # Write the criticisms string directly to the file, respecting existing newline characters
     with open(txt_file_path, 'w', encoding='utf-8') as file:
-        file.write(criticisms)
+        file.write(criticisms_topics)
 
     print(f"Data written to: {txt_file_path}")
