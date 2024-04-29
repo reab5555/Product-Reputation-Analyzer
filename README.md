@@ -58,7 +58,4 @@ Note that we use the Gemini Pro 1.5 model by Google through which we send API re
    
 To run, use Main.py - please enter the name of your google cloud project if needed and the number of the desired topics or criticisms to be listed.    
 
-## Demonstration
-We would like to demonstrate here some of the results we received from the algorithm. we extracted two datasets containing tweets that mention iPhone 15 Pro Max and the Tesla Model 3. Both are very popular products in the market. We extracted data from different time ranges. The data for the Tesla Model 3 is tweets from 2023, with each month containing the same amount of tweets or samples. For the iPhone 15 Pro Max, we extracted tweets from the period between September 2023 (the product's release date) and December 2023. In total, the two datasets contain about 4000 tweets each.   
-
 
