@@ -23,10 +23,10 @@ Here are the algorithm steps:
 5. Assembling a report with the list of the main problems, issues, or criticisms and providing unique KPI metrics.
 
 ## Algorithm steps
-Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emotions -> Summarizing the criticisms into main topics and analyzing KPIs
-
+Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emotions -> Summarizing the criticisms into main topics and analyzing KPIs    
+    
 <img src="example_images/Product Analysis.png" width="500" alt="alt text">
-
+    
 ## Available KPI list (Twitter/X):
 #### Activity:
 - Volume:   
