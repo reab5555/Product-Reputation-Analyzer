@@ -51,3 +51,11 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
     
 <img src="example_images/Product Analysis 2.png" width="500" alt="alt text">
 
+<img src="example_images/iphone-15-pro-max-2023.png" width="500" alt="alt text">
+<img src="example_images/iphone-15-pro-max-2023-emotions.png" width="500" alt="alt text">
+<img src="example_images/tesla-model-3-2023.png" width="500" alt="alt text">
+<img src="example_images/tesla-model-3-2023-emotions.png" width="500" alt="alt text">
+
+
+
+
