@@ -25,7 +25,8 @@ Here are the algorithm steps:
 ## Algorithm steps
 Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emotions -> Summarizing the criticisms into main topics and analyzing KPIs    
     
-<img src="example_images/Product Analysis.png" width="500" alt="alt text">
+<img src="example_images/Product Analysis.png" width="400" alt="alt text">
+<img src="example_images/Product Analysis 2.png" width="400" alt="alt text">
     
 ## Available KPI list (Twitter/X)
 #### Activities:
@@ -49,12 +50,11 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
 - Emotions expressed in tweets about a product can provide valuable insights into customer sentiment, helping businesses understand public perception and satisfaction. These insights can guide marketing strategies, product development, and customer service initiatives to better align with consumer needs and preferences.   
 - The GoEmotions dataset categorizes texts into 27 distinct emotion categories. These include emotions such as admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, and surprise. 
     
-<img src="example_images/Product Analysis 2.png" width="500" alt="alt text">
 
-<img src="example_images/iphone-15-pro-max-2023.png" width="500" alt="alt text">
-<img src="example_images/iphone-15-pro-max-2023-emotions.png" width="500" alt="alt text">
-<img src="example_images/tesla-model-3-2023.png" width="500" alt="alt text">
-<img src="example_images/tesla-model-3-2023-emotions.png" width="500" alt="alt text">
+<img src="example_images/iphone-15-pro-max-2023.png" width="550" alt="alt text">
+<img src="example_images/iphone-15-pro-max-2023-emotions.png" width="550" alt="alt text">
+<img src="example_images/tesla-model-3-2023.png" width="550" alt="alt text">
+<img src="example_images/tesla-model-3-2023-emotions.png" width="550" alt="alt text">
 
 
 
