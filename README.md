@@ -58,9 +58,9 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
 <img src="example_images/tesla-model-3-2023-emotions.png" width="600" alt="alt text">
 
 Models cards:
-https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
+https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english   
 https://huggingface.co/SamLowe/roberta-base-go_emotions
-
+   
 ```bash
 git clone https://github.com/reab5555/Product-Reputation-Analyzer.git
 cd Product-Reputation-Analyzer
