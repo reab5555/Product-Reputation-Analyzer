@@ -60,3 +60,8 @@ Loading fetched Dataset -> Cleaning texts -> Extracting all Criticisms and Emoti
 
 
 
+```bash
+git clone https://github.com/reab5555/Product-Reputation-Analyzer.git
+cd Product-Reputation-Analyzer
+pip install -r requirements.txt
+
