@@ -2,7 +2,7 @@
 <img src="example_images/icon.webp" width="100" alt="alt text">
 
 # Product Reputation Analyzer (PRA)
-The purpose of this tool is to perform an in-depth analysis of a product throught social networks opinions, sentiments and atitudes towards a the product, using Large Language Model and Prompt Engineering.
+The purpose of this tool is to perform an in-depth analysis of a product through social networks opinions, sentiments and atitudes towards a the product, using Large Language Model and Prompt Engineering.
 
 ## Description
 Social networks contain valuable information about user experiences of using a particular product - such as problems, malfunctions, sentiments, general issues and any other type of criticism. This information is important for businesses that want to understand what internet users or customers on social networks thinks about their current product on the market, so that they can improve it. relevant to business and data analysts, particularly those focused on product management, marketing strategy, and customer relations. The use of KPIs derived from social media analytics is increasingly crucial in understanding and predicting consumer behavior and market trends.
